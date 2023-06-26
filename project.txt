@@ -1,0 +1,45 @@
+
+E-Learning Platform
+
+The program will accept the course and booking for a course 
+Admin can Add/View/Update/Delete the course details​
+User can view courses, search course, rate and register for the course​
+
+
+Use case document 
+UML diagram (use case diagram/sequence diagram)
+ER diagram
+Project structure
+UI wire frame/ppt of look and feel
+
+........................................................................................................................................................
+                                                                          21-june-23
+........................................................................................................................................................
+
+* Identified entities:
+
+Entity
+......
+
+User:   Represents a user of the e-learning platform.
+Attributes: ID, username, password, email, name,course id
+
+Course:   Represents an individual course offered on the platform.
+Attributes: course id, course name, instructor id, duration, enrollment fee
+
+Rating:  Represents the rating of course
+Attributes: Rating, course id,ID 
+
+topic:   Represents the topics of course
+Attributes: topic id,course id, topic name
+
+admin/instructor: Represents the admin of course
+instructor id, instructor name
+
+
+
+
+
+
+
+
