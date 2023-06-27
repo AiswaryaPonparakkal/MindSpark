@@ -33,7 +33,9 @@ Attributes: Rating, course id,ID
 topic:   Represents the topics of course
 Attributes: topic id,course id, topic name
 
-admin/instructor: Represents the admin of course
+admin:
+
+instructor: Represents the admin of course
 instructor id, instructor name
 
 
